@@ -1,0 +1,65 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\ar9331_dn.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\ar9331_dn.dsn")
+      (Path "Design Resources" ".\ar9331_dn.dsn" "AR9331")
+      (Select "Design Resources" ".\ar9331_dn.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -9 -36 0 200 0 546"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -36 60 1698 60 630")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\ADMINISTRATOR\DESKTOP\AR9331µ×°å\µ×°åÎÄ¼þ\AR9331_DN.DSN")
+      (Schematic "AR9331")
+      (Page "1-Core_Board"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -36 90 1728 90 660")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\ADMINISTRATOR\DESKTOP\AR9331µ×°å\µ×°åÎÄ¼þ\AR9331_DN.DSN")
+      (Schematic "AR9331")
+      (Page "2-IO_port"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -36 120 1758 120 690")
+        (Scroll "-132 0")
+        (Zoom "60")
+        (Occurrence "/"))
+      (Path "C:\USERS\ADMINISTRATOR\DESKTOP\AR9331µ×°å\µ×°åÎÄ¼þ\AR9331_DN.DSN")
+      (Schematic "AR9331")
+      (Page "23-POWER.SCH"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -36 150 1788 150 720")
+        (Scroll "219 263")
+        (Zoom "104")
+        (Occurrence "/"))
+      (Path "C:\USERS\ADMINISTRATOR\DESKTOP\AR9331µ×°å\µ×°åÎÄ¼þ\AR9331_DN.DSN")
+      (Schematic "AR9331")
+      (Page "22-XMER-RJ45.SCH")))
+  (MPSSessionName "Administrator")
+  (PartMRUSelector))

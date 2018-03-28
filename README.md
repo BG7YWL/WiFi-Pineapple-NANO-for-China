@@ -1,6 +1,6 @@
 # WiFi-Pineapple-NANO-for-China
 ![WiFi-Pineapple-NANO-for-China](/img/20171013100914.jpg)
-![Mou icon](http://25.io/mou/Mou_128.png =200x)
+
 和小伙伴一起抄板某国产WifiPineapple NANO
 
 只完成了硬件部分

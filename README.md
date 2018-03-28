@@ -2,10 +2,10 @@
 和小伙伴一起抄板某国产WifiPineapple NANO
 只完成了硬件部分
 AR9331 + AR9271 模块
-![AR9331-1](/img/AR9331-1.jpg)
-![AR9331-2](/img/AR9331-2.jpg)
-![AR9271-1](/img/AR9271-1.jpg)
-![AR9271-2](/img/AR9271-2.jpg)
+![AR9331-1](/img/AR9331-1.jpg =150x150)
+![AR9331-2](/img/AR9331-2.jpg =150x150)
+![AR9271-1](/img/AR9271-1.jpg =150x150)
+![AR9271-2](/img/AR9271-2.jpg =150x150)
 
 软件部分可以参考下面2个网站
  - http://zy-link.xyz:8001
